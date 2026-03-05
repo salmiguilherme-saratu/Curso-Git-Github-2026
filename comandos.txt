@@ -3,7 +3,4 @@ cd -> move entre diretórios
 pwd -> mostra diretório de trabalho
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório
-git init .-> cria um repo git na pasta atual
-git status -> mostra o status do trabalho
-git commit -m "msg" -> faz commit do que estava para ser commitado
-git ass nome_arquivo -> adiciona arquivo apra ser comitado
+rm -rf -> remove de forma recursiva e forçada o arquivo ou diretório
